@@ -9,6 +9,7 @@
 
 <p align="center">
 	<a href="https://github.com/google-research-datasets/Nutrition5k"><b>Website</b></a> •
+	<a href="https://arxiv.org/pdf/2103.03375.pdf"><b>Paper</b></a> •
 	<a href="#download-data"><b>Download Data</b></a> •
 	<a href="#dataset-contents"><b>Dataset Contents</b></a> •
 	<a href="#license--contact"><b>License & Contact</b></a>
