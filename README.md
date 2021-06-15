@@ -11,7 +11,7 @@
 	<a href="https://github.com/google-research-datasets/Nutrition5k"><b>Website</b></a> •
 	<a href="#download-data"><b>Download Data</b></a> •
 	<a href="#dataset-contents"><b>Dataset Contents</b></a> •
-	<a href="mailto:nutrition5k@google.com"><b>Contact</b></a>
+	<a href="#license-&-contact"><b>License & Contact</b></a>
 </p>
 
 </div>
@@ -34,9 +34,8 @@
 </ul>
 
 ### Download Data
-All Nutrition5k data can be downloaded directly from our <a href="https://console.cloud.google.com/storage/browser/nutrition5k">Google Cloud Storage bucket</a>. 
+All Nutrition5k data can be downloaded directly from our <a href="">Google Cloud Storage bucket</a>. 
 
-TODO(arjunkarpur): dataset size. Scripts are found in this github dir
 
 <p align="center">
 	<img src="res/plate_1.jpg">
@@ -98,7 +97,7 @@ To help evaluate nutrition prediction methods, we provide `scripts/compute_eval_
 ## Dataset Bias Disclaimer
 The dataset does not cover all food cuisines, as it was only collected in a few select cafeterias in California, USA. Nutrition5k does not claim to completely solve the food understanding problem, but rather aims to provide a unique level of detailed annotations and depth data to further advance the space.
 
-## License & Citation
+## License & Contact
 We release all Nutrition5k data under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons V4.0</a> license. You are free to share and adapt this data for any purpose, even commercially. If you found this dataset useful, please consider citing our [CVPR 2021 paper](https://arxiv.org/pdf/2103.03375.pdf).
 ```
 @article{thames2021nutrition5k,
