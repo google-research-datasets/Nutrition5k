@@ -39,8 +39,10 @@ All Nutrition5k data can be downloaded directly from our [Google Cloud Storage b
 	<li><a href="https://storage.cloud.google.com/nutrition5k_dataset/nutrition5k_dataset.tar.gz">nutrition5k_dataset.tar.gz</a> (181.4 GB)
 </ul>
 
-From the Cloud Storage bucket directory, you can browse through the dataset folders and download specific files using the `gsutil cp` command:
-`gsutil -m cp -r "gs://nutrition5k_dataset/nutrition5k_dataset/{FILE_OR_DIR_PATH}" .`
+From the Cloud Storage bucket directory, you can also browse through the dataset folders and download specific files using the `gsutil cp` command:
+```
+gsutil -m cp -r "gs://nutrition5k_dataset/nutrition5k_dataset/{FILE_OR_DIR_PATH}" .
+```
 
 See [here](https://cloud.google.com/storage/docs/gsutil) for instructions on installing the `gsutil` tool.
 
