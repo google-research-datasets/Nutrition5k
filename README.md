@@ -34,8 +34,6 @@
 </ul>
 
 ### Download Data
-<i>[<b>PENDING</b>] Dataset release is still in progress - please check back soon.</i>
-
 All Nutrition5k data can be downloaded directly from our [Google Cloud Storage bucket](https://console.cloud.google.com/storage/browser/nutrition5k_dataset), or from the .tar.gz download link below.
 <ul>
 	<li><a href="https://storage.cloud.google.com/nutrition5k_dataset/nutrition5k_dataset.tar.gz">nutrition5k_dataset.tar.gz</a> (181.4 GB)
