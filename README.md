@@ -111,10 +111,11 @@ The dataset does not cover all food cuisines, as it was only collected in a few 
 ## License & Contact
 We release all Nutrition5k data under the <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons V4.0</a> license. You are free to share and adapt this data for any purpose, even commercially. If you found this dataset useful, please consider citing our [CVPR 2021 paper](https://arxiv.org/pdf/2103.03375.pdf).
 ```
-@article{thames2021nutrition5k,
+@inproceedings{thames2021nutrition5k,
   title={Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food},
   author={Thames, Quin and Karpur, Arjun and Norris, Wade and Xia, Fangting and Panait, Liviu and Weyand, Tobias and Sim, Jack},
-  journal={arXiv preprint arXiv:2103.03375},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={8903--8911},
   year={2021}
 }
 ```
